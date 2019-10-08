@@ -2,5 +2,5 @@
 
 function companyName(){
 
- companyName = Scuber 
+ companyName = Scuber
 }
